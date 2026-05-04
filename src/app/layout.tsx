@@ -115,6 +115,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
       <head>
+        <meta name="google-site-verification" content="cdm1PXnrmTzk3YO0m3d9T9W7ovPO5p4fLQT8Ck6LLHc" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
