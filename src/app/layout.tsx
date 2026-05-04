@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://saqibjaved.dev"),
+  metadataBase: new URL("https://saqib-javed.vercel.app"),
   title: {
     default: "Muhammad Saqib Javed — Expert Laravel Developer & Full-Stack Engineer",
     template: "%s | Muhammad Saqib Javed",

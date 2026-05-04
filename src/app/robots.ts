@@ -9,9 +9,9 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: [
-      'https://saqibjaved.dev/sitemap.xml',
-      'https://saqibjaved.dev/sitemap-index.xml',
+      'https://saqib-javed.vercel.app/sitemap.xml',
+      'https://saqib-javed.vercel.app/sitemap-index.xml',
     ],
-    host: 'https://saqibjaved.dev',
+    host: 'https://saqib-javed.vercel.app',
   }
 }
